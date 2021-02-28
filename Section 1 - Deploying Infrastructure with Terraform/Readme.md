@@ -12,6 +12,7 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 | 3 | [Understanding Resource & Providers - Part 2][PlDc] |
 | 4 | [Destroying Infrastructure with Terraform (NEW)][PlDd] |
 | 5 | [Terraform Provider Versioning][PlDe] |
+|
 
 
 
